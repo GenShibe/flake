@@ -12,14 +12,13 @@
   <a href="https://github.com/GenShibe/flake/blob/main/LICENSE">
             <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=414559&colorB=F5A97F&logo=unlicense&logoColor=F5A97F"></a>
 </div>
-<h2>"Why is it called E60LFR?" - no one</h1>
-<p>The reason it's called E60LFR is because all my devices are named under a specific theme, that theme being North American bus models.
+<h2>"Why is it called E60LFR?" - no one</h2>
+<p>The reason it's called E60LFR is because all my devices are named under a specific theme, that theme being North American bus models :3
 
 <h2> Credits </h2>
-i'd like to thank those who had to suffer from helping me out with Nix, and for putting up with me being a nix noob 💙
+i'd like to thank those who had to suffer from helping me out with Nix, and for putting up with me being a nix-darwin noob lol💙
 <br>
-<br>
-in all seriousness and no particular order though, these very very cool and based people as well as this guide helped me figure out the complex system that is Nix:
+in all seriousness and no particular order though, these very cool and based people as well as this guide helped me figure out the complex system that is Nix:
 
 - [IsabelRoses](https://github.com/IsabelRoses)
 - [Uncenter](https://github.com/Uncenter)
