@@ -51,6 +51,7 @@ in {
       "window.autoDetectColorScheme" = true;
       "workbench.editor.showTabs" = "multiple";
       "window.nativeTabs" = true;
+      "window.titleBarStyle" = "native";
       "editor.minimap.enabled" = false;
 
       "editor.fontFamily" = "MonaSpiceNe Nerd Font";
