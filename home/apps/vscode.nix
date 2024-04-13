@@ -86,6 +86,7 @@ in {
       "git.confirmSync" = false;
       "git.suggestSmartCommit" = false;
       "git.openRepositoryInParentFolders" = "never";
+      "git.enableCommitSigning": true
 
       "files.associations" = {
       };
