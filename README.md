@@ -18,8 +18,11 @@
 <h2> Credits </h2>
 i'd like to thank those who had to suffer from helping me out with Nix, and for putting up with me being a nix-darwin noob lol💙
 <br>
-in all seriousness and no particular order though, these very cool and based people as well as this guide helped me figure out the complex system that is Nix:
+<br>
+in all seriousness and no particular order though, these very cool and based people as well as the linked guide helped me figure out the complex system that is Nix:
+<br>
+<br>
 
-- [IsabelRoses](https://github.com/IsabelRoses)
+- [Isabelroses](https://github.com/IsabelRoses)
 - [Uncenter](https://github.com/Uncenter)
 - [Nix-Darwin Kickstarter guide](github.com/ryan4yin/nix-darwin-kickstarter/)
