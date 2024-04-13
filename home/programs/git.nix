@@ -12,7 +12,7 @@ _: {
     userEmail = "29279972+GenShibe@users.noreply.github.com";
 
     extraConfig = {
-      user.signingkey = "2CC04BD99FE8D5CD";
+      user.signingkey = "CE5EAD50DD5E2278";
       init.defaultBranch = "main";
       push.autoSetupRemote = true;
     };
