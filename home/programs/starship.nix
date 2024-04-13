@@ -7,7 +7,7 @@
     enableFishIntegration = true;
 
     settings = {
-      add_newline = false;
+      add_newline = true;
       continuation_prompt = "[](yellow) ";
       right_format = "$cmd_duration";
       format = builtins.concatStringsSep "" [

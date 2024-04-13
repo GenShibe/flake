@@ -9,7 +9,7 @@ _: {
       ".direnv/"
     ];
 
-    userName = "gen";
+    userName = "Gen";
     userEmail = "29279972+GenShibe@users.noreply.github.com";
 
     extraConfig = {
