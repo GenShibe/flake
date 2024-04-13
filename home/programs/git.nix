@@ -10,7 +10,7 @@ _: {
     ];
 
     userName = "Gen";
-    userEmail = "29279972+GenShibe@users.noreply.github.com";
+    userEmail = "buzhybrid@gmail.com";
 
     extraConfig = {
       user.signingkey = "CE5EAD50DD5E2278";
