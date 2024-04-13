@@ -1,3 +1,4 @@
+# credits to @uncenter for letting me nab this file
 {config, ...}: {
   home.sessionVariables = {
     # https://github.com/b3nj5m1n/xdg-ninja
