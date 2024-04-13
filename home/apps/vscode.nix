@@ -74,10 +74,6 @@ in {
       "editor.tabSize" = 4;
       "prettier.useTabs" = true;
 
-      "yaml.format.enable" = true;
-      "[yaml]" = {
-        "editor.tabSize" = 2;
-      };
       "[github-actions-workflow]" = {
         "editor.tabSize" = 2;
       };
