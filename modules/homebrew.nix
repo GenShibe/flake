@@ -36,6 +36,7 @@ _: {
       "sf-symbols"
       "zed"
       "pinentry"
+      "hyfetch"
     ];
   };
 }
