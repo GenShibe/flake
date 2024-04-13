@@ -10,10 +10,10 @@ _: {
     ];
 
     userName = "Gen";
-    userEmail = "buzhybrid@gmail.com";
+    userEmail = "genshibe@gmail.com";
 
     extraConfig = {
-      user.signingkey = "CE5EAD50DD5E2278";
+      user.signingkey = "2CC04BD99FE8D5CD";
       init.defaultBranch = "main";
       push.autoSetupRemote = true;
     };
