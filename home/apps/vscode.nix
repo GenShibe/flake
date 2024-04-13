@@ -1,4 +1,4 @@
-# credit to @uncenter for letting me nab this file
+# credit to @uncenter for letting me nab most of this file
 {
   pkgs,
   lib,
