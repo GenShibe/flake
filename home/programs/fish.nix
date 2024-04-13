@@ -24,9 +24,7 @@
 
     shellAliases = {
       "ll" = "ls -la";
-
       "cat" = "bat";
-
       "cx" = "chmod +x";
     };
 

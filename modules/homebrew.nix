@@ -18,6 +18,7 @@ _: {
       "homebrew/services"
       "homebrew/cask-versions"
       "homebrew/bundle"
+      "fwdekker/mommy"
     ];
 
     brews = [];
