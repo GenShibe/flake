@@ -34,8 +34,6 @@ function mommy_ --on-event fish_postexec
 end
 
 starship init fish | source
-fnm env --use-on-cd | source
-atuin init fish | source
 
 # https://fishshell.com/docs/current/cmds/fish_greeting.html
 set fish_greeting
