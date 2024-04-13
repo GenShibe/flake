@@ -1,5 +1,4 @@
-# adapted from https://github.com/uncenter/flake
-_: {
+{
   # https://docs.brew.sh/Manpage#environment
   environment.variables = {
     HOMEBREW_NO_ANALYTICS = "1";
@@ -19,7 +18,6 @@ _: {
       "homebrew/services"
       "homebrew/cask-versions"
       "homebrew/bundle"
-      "fwdekker/mommy"
     ];
 
     brews = [];
@@ -37,7 +35,6 @@ _: {
       "sf-symbols"
       "zed"
       "pinentry"
-      "hyfetch"
       "stats"
     ];
   };
