@@ -1,3 +1,4 @@
+# credit to @uncenter for letting me nab this file
 _: {
   programs.git = {
     enable = true;
