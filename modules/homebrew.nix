@@ -35,6 +35,7 @@ _: {
       "rectangle"
       "sf-symbols"
       "zed"
+      "pinentry"
     ];
   };
 }
