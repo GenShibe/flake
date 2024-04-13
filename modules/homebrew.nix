@@ -18,7 +18,6 @@
       "homebrew/services"
       "homebrew/cask-versions"
       "homebrew/bundle"
-      "fwdekker/mommy"
     ];
 
     brews = [];
@@ -36,7 +35,6 @@
       "sf-symbols"
       "zed"
       "pinentry"
-      "hyfetch"
       "stats"
     ];
   };

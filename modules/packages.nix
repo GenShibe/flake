@@ -11,7 +11,6 @@
     # Essentials #
     coreutils
     curl
-    gcc
     git-lfs
     gnupg
     wget
@@ -35,11 +34,10 @@
     shellcheck
 
     # Tools and TUIs #
-    bottom
     cowsay
     gum
-    hyperfine
     just
     lolcat
+    hyfetch
   ];
 }
