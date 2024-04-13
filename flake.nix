@@ -22,11 +22,6 @@
       url = "github:catppuccin/toolbox";
     };
 
-    rust-overlay = {
-      url = "github:oxalica/rust-overlay";
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
-
     darwin-custom-icons = {
       url = "github:ryanccn/nix-darwin-custom-icons";
     };
