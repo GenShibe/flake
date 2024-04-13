@@ -1,4 +1,4 @@
-# credit to @uncenter for letting me nab most of this file
+# adapted from https://github.com/uncenter/flake
 {
   pkgs,
   lib,

@@ -1,4 +1,4 @@
-# credit to @uncenter for letting me nab this file
+# adapted from https://github.com/uncenter/flake
 {
   inputs = {
     nixpkgs = {

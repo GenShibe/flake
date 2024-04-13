@@ -1,4 +1,3 @@
-# credit to @uncenter for letting me nab this file
 {
   programs.starship = {
     enable = true;
