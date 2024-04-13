@@ -38,6 +38,7 @@ _: {
       "zed"
       "pinentry"
       "hyfetch"
+      "stats"
     ];
   };
 }
