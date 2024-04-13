@@ -22,6 +22,16 @@ function reset
     set -gx NEW_LINE_BEFORE_PROMPT
     command reset
 end
+function update
+  brew update
+  brew upgrade
+  brew cleanup --prune=all
+  cargo install-update -ag
+  softwareupdate -i -a --verbose
+end
+function mommy_ --on-event fish_postexec
+    mommy -1 -s $status
+end
 
 starship init fish | source
 fnm env --use-on-cd | source
