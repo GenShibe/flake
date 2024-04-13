@@ -1,5 +1,4 @@
-# adapted from https://github.com/uncenter/flake
-_: {
+{
   # https://docs.brew.sh/Manpage#environment
   environment.variables = {
     HOMEBREW_NO_ANALYTICS = "1";

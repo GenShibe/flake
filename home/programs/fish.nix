@@ -1,4 +1,3 @@
-# adapted from https://github.com/uncenter/flake
 {
   lib,
   pkgs,
@@ -9,14 +8,8 @@
     enable = true;
     catppuccin.enable = true;
 
-    shellAbbrs = {
-      "puil" = "pnpm update --interactive --latest";
-    };
-
     shellAliases = {
       "ll" = "ls -la";
-      "cat" = "bat";
-      "cx" = "chmod +x";
     };
 
     plugins = [
@@ -29,21 +22,13 @@
           sha256 = "sha256-s1o188TlwpUQEN3X5MxUlD/2CFCpEkWu83U9O+wg3VU=";
         };
       }
-      {
-        name = "done";
-        src = pkgs.fetchFromGitHub {
-          owner = "franciscolourenco";
-          repo = "done";
-          rev = "d47f4d6551cccb0e46edfb14213ca0097ee22f9a";
-          sha256 = "sha256-VSCYsGjNPSFIZSdLrkc7TU7qyPVm8UupOoav5UqXPMk=";
-        };
-      }
     ];
 
     shellInit = ''
       source ${./fish/config.fish}
     '';
 
+    # Functions from https://github.com/uncenter/flake/blob/7de08508d4d363d2b0e590574b906252091800fc/home/programs/fish.nix#L63-L85.
     functions = {
       take = ''
         set dir $argv[1]
@@ -65,17 +50,6 @@
           cwebp -lossless $file -o $output
         end
       '';
-    };
-  };
-
-  xdg.configFile = let
-    symlink = fileName: {recursive ? false}: {
-      source = config.lib.file.mkOutOfStoreSymlink "${fileName}";
-      inherit recursive;
-    };
-  in {
-    "fish/completions" = symlink "${./fish/completions}" {
-      recursive = true;
     };
   };
 }

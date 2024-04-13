@@ -26,7 +26,6 @@
     darwin-custom-icons = {
       url = "github:ryanccn/nix-darwin-custom-icons";
     };
-
   };
 
   outputs = {

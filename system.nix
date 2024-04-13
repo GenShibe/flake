@@ -49,10 +49,6 @@
         path = "/Applications/Obsidian.app";
         icon = ./icons/obsidian.icns;
       }
-      {
-        path = "/Applications/Zoom.app";
-        icon = ./icons/zoom.icns;
-      }
     ];
   };
 

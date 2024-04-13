@@ -1,4 +1,3 @@
-# adapted from https://github.com/uncenter/flake
 {
   config,
   inputs,
@@ -16,8 +15,6 @@
     ./programs/git.nix
     ./programs/rust.nix
     ./programs/starship.nix
-
-    ./scripts.nix
   ];
 
   xdg.enable = true;

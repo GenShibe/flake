@@ -24,5 +24,5 @@ in all seriousness and no particular order though, these very cool and based peo
 <br>
 
 - [Isabelroses](https://github.com/IsabelRoses)
-- [Uncenter](https://github.com/Uncenter)
+- [uncenter](https://github.com/Uncenter)
 - [Nix-Darwin Kickstarter guide](github.com/ryan4yin/nix-darwin-kickstarter/)
