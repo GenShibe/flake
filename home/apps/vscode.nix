@@ -66,7 +66,7 @@ in {
       "terminal.integrated.fontSize" = 14;
       "terminal.integrated.lineHeight" = 1.3;
       "terminal.integrated.cursorBlinking" = true;
-      "terminal.integrated.defaultProfile.osx" = "/run/current-system/sw/bin/fish";
+      "terminal.integrated.defaultProfile.osx" = "/usr/bin/fish";
       "editor.cursorSmoothCaretAnimation" = "off";
 
       "editor.formatOnSave" = true;
