@@ -65,7 +65,7 @@ in {
       "editor.stickyScroll.enabled" = false;
       "editor.linkedEditing" = true;
       "workbench.editor.closeOnFileDelete" = true;
-      "terminal.integrated.fontSize" = 14;
+      "terminal.integrated.fontSize" = 13;
       "terminal.integrated.lineHeight" = 1.3;
       "terminal.integrated.cursorBlinking" = true;
       "terminal.integrated.defaultProfile.osx" = "/usr/bin/fish";
