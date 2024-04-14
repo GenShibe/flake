@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/dotfiles.svg" height="350px" />
+  <img src="./assets/dotfiles.svg"/>
   <h1>gen's macOS flake</h1>
 </div>
 <div align="center">
