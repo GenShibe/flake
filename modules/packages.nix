@@ -27,6 +27,7 @@
     ffmpeg
     imagemagick
     libwebp
+    inkscape-with-extensions
 
     # Language Tools & Runtimes #
     deno

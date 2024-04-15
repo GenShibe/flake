@@ -35,7 +35,6 @@
       "sf-symbols"
       "zed"
       "pinentry"
-      "inkscape"
       "stats"
     ];
   };
