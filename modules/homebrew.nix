@@ -34,7 +34,7 @@
       "rectangle"
       "sf-symbols"
       "zed"
-      "pinentry"
+      "gpg-suite-pinentry"
       "stats"
     ];
   };
