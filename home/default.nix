@@ -13,7 +13,6 @@
     ./apps/vscode.nix
     ./programs/fish.nix
     ./programs/git.nix
-    ./programs/rust.nix
     ./programs/starship.nix
   ];
 
