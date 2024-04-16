@@ -21,9 +21,7 @@ _: {
     };
   };
 
-   programs.git.lfs = {
-      enable = true;
-    };
+   programs.git.lfs.enable = true;
 
   programs.gh = {
     enable = true;
