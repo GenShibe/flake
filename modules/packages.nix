@@ -40,5 +40,6 @@
     just
     lolcat
     hyfetch
+    mommy
   ];
 }
