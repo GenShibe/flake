@@ -10,7 +10,7 @@ _: {
     ];
 
     userName = "Gen";
-    userEmail = "genshibe@gmail.com";
+    userEmail = "buzhybrid@gmail.com";
 
     extraConfig = {
       user.signingkey = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKBEGSiPtwswdHx23C7ICHTTxUrSXgbZ6Zrqtydg/mGv ";
