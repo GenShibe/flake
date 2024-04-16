@@ -11,7 +11,6 @@
     # Essentials #
     coreutils
     curl
-    git-lfs
     gnupg
     wget
 

@@ -22,6 +22,7 @@
 
     brews = [
         "pinentry-mac"
+        "git-lfs"
     ];
 
     casks = [
