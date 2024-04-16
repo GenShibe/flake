@@ -5,11 +5,8 @@
   ...
 }: let
   extensions = [
-    "bierner.comment-tagged-templates"
-    "bierner.emojisense"
     "bierner.github-markdown-preview"
     "bierner.markdown-checkbox"
-    "bierner.markdown-emoji"
     "bierner.markdown-preview-github-styles"
     "bmalehorn.vscode-fish"
     "catppuccin.catppuccin-vsc"
