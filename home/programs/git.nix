@@ -21,6 +21,10 @@ _: {
     };
   };
 
+   programs.git.lfs = {
+      enable = true;
+    };
+
   programs.gh = {
     enable = true;
     gitCredentialHelper.enable = true;
