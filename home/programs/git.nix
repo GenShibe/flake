@@ -10,12 +10,13 @@ _: {
     ];
 
     userName = "Gen";
-    userEmail = "buzhybrid@gmail.com";
+    userEmail = "genshibe@gmail.com";
 
     extraConfig = {
-      user.signingkey = "CE5EAD50DD5E2278";
+      user.signingkey = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKBEGSiPtwswdHx23C7ICHTTxUrSXgbZ6Zrqtydg/mGv ";
       init.defaultBranch = "main";
       push.autoSetupRemote = true;
+      gpg.format = "ssh";
     };
   };
 
