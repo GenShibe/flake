@@ -20,21 +20,21 @@
       "homebrew/bundle"
     ];
 
-    brews = [];
+    brews = [
+        "pinentry-mac"
+    ];
 
     casks = [
       "discord"
       "transmission"
       "docker"
       "shottr"
-      "signal"
       "knockknock"
       "google-earth-pro"
       "orion"
       "rectangle"
       "sf-symbols"
       "zed"
-      "gpg-suite-pinentry"
       "stats"
     ];
   };
