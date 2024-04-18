@@ -12,6 +12,11 @@ _: {
     userName = "GenShibe";
     userEmail = "buzhybrid@gmail.com";
 
+    lfs = {
+        enable = true;
+        skipSmudge = true;
+    };
+
     extraConfig = {
       user.signingkey = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKBEGSiPtwswdHx23C7ICHTTxUrSXgbZ6Zrqtydg/mGv ";
       init.defaultBranch = "main";
@@ -21,7 +26,6 @@ _: {
     };
   };
 
-   programs.git.lfs.enable = true;
 
   programs.gh = {
     enable = true;
