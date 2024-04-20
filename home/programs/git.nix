@@ -18,7 +18,7 @@ _: {
     };
 
     extraConfig = {
-      user.signingkey = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKBEGSiPtwswdHx23C7ICHTTxUrSXgbZ6Zrqtydg/mGv ";
+      user.signingkey = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJJwGGjfCAKCmwOs/lhMOrRdcsYoFCm+SRMFGffPblkW";
       init.defaultBranch = "main";
       push.autoSetupRemote = true;
       gpg.format = "ssh";
