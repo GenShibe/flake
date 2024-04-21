@@ -5,7 +5,7 @@
 
     enableFishIntegration = true;
 
-    # Configuration from https://github.com/uncenter/flake/blob/7de08508d4d363d2b0e590574b906252091800fc/home/programs/starship.nix#L8-L121.
+    # Configuration copied from https://github.com/uncenter/flake/blob/7de08508d4d363d2b0e590574b906252091800fc/home/programs/starship.nix#L8-L121.
     settings = {
       add_newline = true;
       continuation_prompt = "[](yellow) ";

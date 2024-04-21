@@ -1,4 +1,4 @@
-# adapted from https://github.com/uncenter/flake
+# Adapted from https://github.com/uncenter/flake.
 {
   pkgs,
   inputs,

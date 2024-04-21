@@ -1,4 +1,4 @@
-# adapted from https://github.com/uncenter/flake
+# Adapted from https://github.com/uncenter/flake/blob/cbd9706b6aeb3d1e1921b4eb9db6e223166bfdc8/home/programs/git.nix.
 _: {
   programs.git = {
     enable = true;
@@ -13,8 +13,8 @@ _: {
     userEmail = "buzhybrid@gmail.com";
 
     lfs = {
-        enable = true;
-        skipSmudge = true;
+      enable = true;
+      skipSmudge = true;
     };
 
     extraConfig = {
@@ -25,7 +25,6 @@ _: {
       commit.gpgsign = true;
     };
   };
-
 
   programs.gh = {
     enable = true;
