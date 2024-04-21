@@ -1,4 +1,3 @@
-# adapted from https://github.com/uncenter/flake
 {
   inputs = {
     nixpkgs = {

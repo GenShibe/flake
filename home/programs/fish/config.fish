@@ -1,3 +1,4 @@
+# Copied from https://github.com/uncenter/flake/blob/cbd9706b6aeb3d1e1921b4eb9db6e223166bfdc8/home/programs/fish/config.fish.
 /opt/homebrew/bin/brew shellenv | source
 
 # https://fishshell.com/docs/current/cmds/fish_add_path.html

@@ -1,4 +1,4 @@
-# adapted from https://github.com/uncenter/flake
+# Adapted from https://github.com/uncenter/flake/blob/cbd9706b6aeb3d1e1921b4eb9db6e223166bfdc8/home/apps/vscode.nix.
 {
   pkgs,
   lib,
@@ -85,8 +85,6 @@ in {
       "git.openRepositoryInParentFolders" = "never";
       "git.enableCommitSigning" = true;
 
-      "files.associations" = {
-      };
       "explorer.confirmDelete" = false;
       "explorer.confirmDragAndDrop" = false;
       "explorer.sortOrder" = "type";
