@@ -32,7 +32,6 @@
       "knockknock"
       "google-earth-pro"
       "orion"
-      "rectangle"
       "sf-symbols"
       "zed"
       "stats"
