@@ -1,3 +1,5 @@
+<h1> Well, this turned out to be more hassle than it was worth. </h1>
+
 <div align="center">
   <img src="./assets/dotfiles.svg"/>
   <h1>gen's macOS flake</h1>
